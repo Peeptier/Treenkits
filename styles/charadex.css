@@ -15,8 +15,8 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color:                    #8FB7D4;
-  --cd-primary-text-color:               #fff;
+  --cd-primary-color:                    #B5C16A;
+  --cd-primary-text-color:               #AF7957;
 
   /* ============================================================= */
   /* Secondary Color
@@ -27,12 +27,12 @@ body {
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            #f8f8f8;
+  --cd-body-background-color:            #B5C16A;
   --cd-content-background-color:         #ffffff;
   --cd-faded-background-color:           #f8f8f8;
 
   /* Background Extras */
-  --cd-body-background-image:             url();
+  --cd-body-background-image:             url(https://postimg.cc/mh1b2bcj);
 
   /* ============================================================= */
   /* Text
