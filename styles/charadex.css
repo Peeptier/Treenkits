@@ -28,11 +28,11 @@ body {
   /* Backgrounds
   ================================================================ */
   --cd-body-background-color:            #B5C16A;
-  --cd-content-background-color:         #ffffff;
+  --cd-content-background-color:         #FEF9DB;
   --cd-faded-background-color:           #f8f8f8;
 
   /* Background Extras */
-  --cd-body-background-image:             url(https://i.postimg.cc/Y2bjR0M5/BG1.png);
+  --cd-body-background-image:             url(https://i.postimg.cc/8CkT7nTf/BG1.png);
 
   /* ============================================================= */
   /* Text
@@ -43,7 +43,7 @@ body {
   /* ============================================================= */
   /* Borders
   ================================================================ */
-  --cd-border-color:                     rgba(0, 0, 0, 0.125);
+  --cd-border-color:                     rgba(117, 67, 46, 0.125);
   --cd-border-width:                     1px;
   --cd-border-style:                     solid;
   --cd-border-radius:                    1rem;
